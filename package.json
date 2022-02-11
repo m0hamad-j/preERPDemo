@@ -19,6 +19,7 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "@revolist/svelte-datagrid": "^3.0.52",
     "prettier": "^2.5.1",
     "sirv-cli": "^2.0.0",
     "smui": "^0.0.4",
